@@ -7,8 +7,8 @@
 
 I have a multitude of available repositories that are currently on private. 
 These include:
-    - a Computational Physics Project
-    - a Discord Bot
+- a Computational Physics Project
+- a Discord Bot
     
 These repositories are available upon request.
 <!---
