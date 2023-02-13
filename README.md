@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Charako
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Competitive Programming Strategies
 - 💞️ I’m looking to collaborate on? nothing yet
 - 📫 How to reach me? email me at mym16581@gmail.com
 
@@ -9,6 +9,7 @@ I have a multitude of available repositories that are currently on private.
 These include:
 - a Computational Physics Project
 - a Discord Bot
+- My Machine Learning Projects
     
 These repositories are available upon request.
 <!---
